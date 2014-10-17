@@ -1,0 +1,6 @@
+c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\ProjetoEasyImoveis\bin\ProjetoEasyImoveis.dll.config
+c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\ProjetoEasyImoveis\bin\ProjetoEasyImoveis.dll
+c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\ProjetoEasyImoveis\bin\ProjetoEasyImoveis.pdb
+c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\ProjetoEasyImoveis\obj\Debug\ProjetoEasyImoveis.csprojResolveAssemblyReference.cache
+c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\ProjetoEasyImoveis\obj\Debug\ProjetoEasyImoveis.dll
+c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\ProjetoEasyImoveis\obj\Debug\ProjetoEasyImoveis.pdb
