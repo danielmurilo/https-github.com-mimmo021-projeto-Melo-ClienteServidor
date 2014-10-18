@@ -5,10 +5,11 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using WcfServiceClienteRede.classebasica;
+using WcfServiceClienteRede.classeInterface;
 
 namespace WcfServiceClienteRede.classeDados
 {
-    public class DadosClienteRede
+    public class DadosClienteRede : InterfaceClienteRede
     {
         private conexao conn = new conexao();
         //construtor

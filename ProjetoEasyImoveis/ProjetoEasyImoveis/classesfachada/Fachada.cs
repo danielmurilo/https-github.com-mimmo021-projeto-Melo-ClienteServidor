@@ -9,7 +9,7 @@ namespace ProjetoEasyImoveis.classesfachada
 {
     public class Fachada
     {
-        ClienteNegocios cn = new ClienteNegocios();
+
         //crud cliente
         public void cadastrarCliente()
         {
@@ -17,7 +17,6 @@ namespace ProjetoEasyImoveis.classesfachada
         }
         public void alterarCliente()
         {
-
         }
         public void deletarCliente()
         {

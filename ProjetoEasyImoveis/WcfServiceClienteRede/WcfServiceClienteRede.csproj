@@ -65,6 +65,9 @@
   <ItemGroup>
     <Compile Include="classebasica\ClienteRede.cs" />
     <Compile Include="classeDados\DadosClienteRede.cs" />
+    <Compile Include="classeFachada\FachadaClienteRede.cs" />
+    <Compile Include="classeInterface\InterfaceClienteRede.cs" />
+    <Compile Include="classeNegocio\NegocioClienteRede.cs" />
     <Compile Include="classesconexao\conexao.cs" />
     <Compile Include="classesexeption\SExeption.cs" />
     <Compile Include="Service1.svc.cs">
