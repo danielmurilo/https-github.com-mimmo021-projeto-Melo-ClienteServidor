@@ -4,3 +4,8 @@ c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\Proj
 c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\ProjetoEasyImoveis\obj\Debug\ProjetoEasyImoveis.csprojResolveAssemblyReference.cache
 c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\ProjetoEasyImoveis\obj\Debug\ProjetoEasyImoveis.dll
 c:\users\sony vaio\documents\visual studio 2013\Projects\ProjetoEasyImoveis\ProjetoEasyImoveis\obj\Debug\ProjetoEasyImoveis.pdb
+C:\Users\danielmurilo_2\SkyDrive\3 periodo\Projeto\https-github.com-mimmo021-projeto-Melo-ClienteServidor\ProjetoEasyImoveis\ProjetoEasyImoveis\bin\ProjetoEasyImoveis.dll
+C:\Users\danielmurilo_2\SkyDrive\3 periodo\Projeto\https-github.com-mimmo021-projeto-Melo-ClienteServidor\ProjetoEasyImoveis\ProjetoEasyImoveis\bin\ProjetoEasyImoveis.pdb
+C:\Users\danielmurilo_2\SkyDrive\3 periodo\Projeto\https-github.com-mimmo021-projeto-Melo-ClienteServidor\ProjetoEasyImoveis\ProjetoEasyImoveis\obj\Debug\ProjetoEasyImoveis.csprojResolveAssemblyReference.cache
+C:\Users\danielmurilo_2\SkyDrive\3 periodo\Projeto\https-github.com-mimmo021-projeto-Melo-ClienteServidor\ProjetoEasyImoveis\ProjetoEasyImoveis\obj\Debug\ProjetoEasyImoveis.dll
+C:\Users\danielmurilo_2\SkyDrive\3 periodo\Projeto\https-github.com-mimmo021-projeto-Melo-ClienteServidor\ProjetoEasyImoveis\ProjetoEasyImoveis\obj\Debug\ProjetoEasyImoveis.pdb
